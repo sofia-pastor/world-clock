@@ -2,6 +2,7 @@ body {
   background-image: url("world-clock.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  background-color: rgb(179, 185, 187);
 }
 
 h1 {
