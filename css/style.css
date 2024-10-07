@@ -1,5 +1,7 @@
 body {
-  background: pink;
+  background-image: url("world-clock.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 h1 {
